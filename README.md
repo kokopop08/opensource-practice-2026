@@ -1,4 +1,3 @@
-# opensource-practice-2026
+# opensource-practice-2026
 
 Hello World!
-;[B
